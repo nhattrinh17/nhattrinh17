@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trinh Nhat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 - 📫 How to reach me **trinhminhnhatxt123@gmail.com**
 
